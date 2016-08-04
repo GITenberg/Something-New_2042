@@ -1,0 +1,46 @@
+_repo: Something-New_2042
+_version: 0.0.1
+alternative_title: Something Fresh
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: "Something Fresh is a novel by P. G. Wodehouse. It was first published\
+  \ as a book in the United States, by D. Appleton & Company on 3 September 1915,\
+  \ under the title Something New, having previously appeared under that title as\
+  \ a serial in the Saturday Evening Post between 26 June and 14 August 1915. It was\
+  \ published in the United Kingdom by Methuen & Co. on 16 September 1915.\nThe novel\
+  \ introduces Lord Emsworth of Blandings Castle, whose home and family reappear in\
+  \ many of Wodehouse's later short stories and novels; in a new preface added to\
+  \ Something Fresh in 1969, Wodehouse dubbed this series of stories \"the Blandings\
+  \ Castle Saga\".\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Humor
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2042'
+  wikidata: Q7560096
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shropshire (England) -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Blandings Castle (England : Imaginary place) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- GITenberg
+title: Something New
+url: http://www.gutenberg.org/ebooks/2042
+wikipedia:
+- https://en.wikipedia.org/wiki/Something_Fresh
