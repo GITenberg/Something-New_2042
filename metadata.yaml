@@ -1,6 +1,9 @@
 _repo: Something-New_2042
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Something Fresh
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -21,6 +24,8 @@ description: "Something Fresh is a novel by P. G. Wodehouse. It was first publis
   \ many of Wodehouse's later short stories and novels; in a new preface added to\
   \ Something Fresh in 1969, Wodehouse dubbed this series of stories \"the Blandings\
   \ Castle Saga\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2042#Something-New
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Humor
